@@ -1,11 +1,25 @@
-Hi there 👋
+# About Me
+Senior full-stack software engineer working at Highway Data Systems on systems that improve quality controls and reduce costs in the Highway Construction Indsutry. 
 
-I'm a senior full-stack software engineer driven by a passion for understanding and building complex systems. My background spans from mission-critical embedded systems to commercial web applications, and my work is guided by systems thinking and pragmatism.
+## Languages & Tools 
+```
+Javascript | Typescript | Node | React | Storybook | Angular | Jest | Mocha | Vue
+SQL | Postgres | MongoDB | Redis | Java | Spring | Micronaut | JUnit  | Python
+PyTorch | NumPy | Jupyter | R | Go | C  | Unix | GNU | Linux | Bash | BATs | Docker
+Kubernetes | Terraform | GraphQL | Azure | Bitbucket | GCP | Github Actions
+Netlify | Heroku | Shape Up Methodology | XP | REST | GraphQL | OSI Networking
+Software Architecture | Microservices | Excalidraw | Statistics | Bayesiansim
+NHST | A/B Testing | Experimental Design | Natural Language Processing
+Hugging Face | Kaggle | Prompt Engineering
+```
 
-In my current role at Highway Data Systems, I'm focused on building robust software and data collection methods to improve highway engineering and construction. This work is a direct application of my interests, which extend into:
-
-    - Statistics and research methodology
-    - Philosophy of Science 
+## Areas of Interest:
+    - Statistics and Scientific Research Methodology
     - Experimental Philosophy
-    - Cybernetics and philosophy of mind
-    - Improving and defending democracy and democratic institutions
+    - Linguistics
+    - Democracy, Democratic Institutions and Voting 
+    - Countering Misinformation and Disinformation 
+    - Cybernetics & Enactivist / Embodied Approaches to Philosophy of Mind
+
+----- 
+> Feel free to reach out to me if you want to collaborate on something
