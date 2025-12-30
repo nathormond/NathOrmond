@@ -1,3 +1,4 @@
-# About Me
-Senior full-stack software engineer 
-
+- Senior Full Stack Software Engineer @ Reelables -- making cool and innovative things for the logistics industry
+- MSc in Philosophy ( dabble in topics related to Philosophy, Methodology, X-Phi and so on )
+- MS student in Statistics ( focusing on improving the use of Statistical Methods and improving understanding of Computational Approaches to Statistics )
+- Other weird interests at the intersections of these skills 
